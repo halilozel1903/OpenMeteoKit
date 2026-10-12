@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-label="OpenMeteoKit: a Swift client for the free Open-Meteo weather API, with Apple Watch and iPhone apps" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2Y2Y3NDFiYi1lMGMzLTRhMTctOTRkYi0zMDE0MzIyYzcwOTkAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBKcKDge/48jXEP1eGi66MYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjMGJmMjExZS0wYWQ1LTRmNDEtYjBjZS05YjRhYzMzNDRmNGJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNouB38EMd8PxddrEf8JlT9nAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggKwDzgd5RvgwxYCFnS2/3R45UVxtT418fNMC3zZ3YeeqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJTrwqCjAJT/2FjVaSHi9fYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIL+z5fhDEb6YOJD7wVTSMNtGxsVVeRNuRT6PBRpPhfxtZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQETZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjZjZjc0MWJiLWUwYzMtNGExNy05NGRiLTMwMTQzMjJjNzA5OS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmJlMGMwNjc4LTM3NzItNGZlNS04ZjI0LWMxMzUzMWZlZDg4NnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCArAPOB3lG+DDFgIWdLb/dHjlRXG1PjXx80wLfNndh56qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg9BsSrojigMpC6/6knmVTKMui5lQKBuDbF2j2UquCY+yiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggy84EddfbO41Y5c5qqZMOXZLy58r7r091jN/eY5687Vt0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJYvmiXw9x6Us0KNOrOW/NRQXPNfkaOSbTIiiy2xzW8QRISMRRWLi1bezZZXfygx/iudG7t4qNz5QAkBhYs6Pwc=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071226"/>
+      <stop offset="1" stop-color="#0f2547"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a73db"/>
+      <stop offset="1" stop-color="#6fb3f5"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4dd9cc"/>
+      <stop offset="1" stop-color="#fbcc40"/>
+    </linearGradient>
+    <linearGradient id="case" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a3f47"/>
+      <stop offset="1" stop-color="#16191e"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="560" fill="url(#bg)"/>
+
+  <!-- Title -->
+  <text x="80" y="200" font-family="-apple-system, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">OpenMeteoKit</text>
+  <text x="82" y="252" font-family="-apple-system, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#a9c1dc">Swift client for the free Open-Meteo weather API</text>
+  <g font-family="-apple-system, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600">
+    <rect x="82" y="292" width="128" height="40" rx="20" fill="#6fb3f5" fill-opacity="0.16"/>
+    <text x="146" y="319" text-anchor="middle" fill="#8cc6ff">Forecast</text>
+    <rect x="222" y="292" width="148" height="40" rx="20" fill="#6fb3f5" fill-opacity="0.16"/>
+    <text x="296" y="319" text-anchor="middle" fill="#8cc6ff">Air quality</text>
+    <rect x="382" y="292" width="146" height="40" rx="20" fill="#6fb3f5" fill-opacity="0.16"/>
+    <text x="455" y="319" text-anchor="middle" fill="#8cc6ff">Geocoding</text>
+    <rect x="540" y="292" width="120" height="40" rx="20" fill="#6fb3f5" fill-opacity="0.16"/>
+    <text x="600" y="319" text-anchor="middle" fill="#8cc6ff">Archive</text>
+  </g>
+  <text x="82" y="380" font-family="-apple-system, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif" font-size="20" fill="#7790ad">Typed variables · columnar rows · WMO codes · SwiftUI views</text>
+  <text x="82" y="414" font-family="-apple-system, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#5d7593">Weather data by Open-Meteo.com (CC BY 4.0)</text>
+
+  <!-- iPhone -->
+  <g filter="url(#shadow)">
+    <rect x="760" y="40" width="250" height="500" rx="44" fill="#1b1e24"/>
+    <rect x="770" y="50" width="230" height="480" rx="36" fill="url(#sky)"/>
+  </g>
+  <rect x="852" y="62" width="66" height="20" rx="10" fill="#05070a"/>
+  <g font-family="-apple-system, 'SF Pro Rounded', 'Helvetica Neue', Arial, sans-serif" fill="#ffffff" text-anchor="middle">
+    <text x="885" y="120" font-size="20" font-weight="500">Istanbul</text>
+    <text x="900" y="186" font-size="62" font-weight="200">22°</text>
+    <text x="885" y="212" font-size="14" font-weight="500" fill-opacity="0.85">Partly cloudy</text>
+    <text x="885" y="232" font-size="13" font-weight="500">H:22°  L:16°</text>
+  </g>
+  <!-- Sun and cloud next to the temperature -->
+  <circle cx="824" cy="160" r="13" fill="#ffd040"/>
+  <g fill="#ffffff">
+    <circle cx="832" cy="172" r="9"/>
+    <circle cx="843" cy="166" r="11"/>
+    <rect x="824" y="170" width="30" height="11" rx="5.5"/>
+  </g>
+  <!-- Hourly card -->
+  <rect x="784" y="252" width="202" height="92" rx="14" fill="#000000" fill-opacity="0.2"/>
+  <g font-family="-apple-system, 'SF Pro Rounded', 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">
+    <text x="810" y="276">Now</text><text x="852" y="276">3PM</text><text x="894" y="276">4PM</text><text x="936" y="276">5PM</text><text x="972" y="276">6PM</text>
+    <text x="810" y="332" font-size="14">22°</text><text x="852" y="332" font-size="14">22°</text><text x="894" y="332" font-size="14">22°</text><text x="936" y="332" font-size="14">22°</text><text x="972" y="332" font-size="14">22°</text>
+  </g>
+  <g fill="#ffd040">
+    <circle cx="810" cy="300" r="7"/><circle cx="852" cy="300" r="7"/><circle cx="894" cy="300" r="7"/><circle cx="936" cy="300" r="7"/><circle cx="972" cy="300" r="7"/>
+  </g>
+  <g fill="#ffffff">
+    <rect x="804" y="301" width="18" height="8" rx="4"/><rect x="846" y="301" width="18" height="8" rx="4"/><rect x="888" y="301" width="18" height="8" rx="4"/><rect x="930" y="301" width="18" height="8" rx="4"/>
+  </g>
+  <!-- Week card -->
+  <rect x="784" y="356" width="202" height="150" rx="14" fill="#000000" fill-opacity="0.2"/>
+  <g font-family="-apple-system, 'SF Pro Rounded', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#ffffff">
+    <text x="796" y="384">Today</text><text x="796" y="414">Fri</text><text x="796" y="444">Sat</text><text x="796" y="474">Sun</text>
+    <text x="874" y="384" text-anchor="end" fill-opacity="0.6">16°</text><text x="874" y="414" text-anchor="end" fill-opacity="0.6">15°</text><text x="874" y="444" text-anchor="end" fill-opacity="0.6">13°</text><text x="874" y="474" text-anchor="end" fill-opacity="0.6">13°</text>
+    <text x="976" y="384" text-anchor="end">22°</text><text x="976" y="414" text-anchor="end">20°</text><text x="976" y="444" text-anchor="end">17°</text><text x="976" y="474" text-anchor="end">18°</text>
+  </g>
+  <g fill="#ffffff" fill-opacity="0.15">
+    <rect x="882" y="376" width="64" height="5" rx="2.5"/><rect x="882" y="406" width="64" height="5" rx="2.5"/><rect x="882" y="436" width="64" height="5" rx="2.5"/><rect x="882" y="466" width="64" height="5" rx="2.5"/>
+  </g>
+  <rect x="901" y="376" width="38" height="5" rx="2.5" fill="url(#bar)"/>
+  <rect x="896" y="406" width="27" height="5" rx="2.5" fill="url(#bar)"/>
+  <rect x="886" y="436" width="22" height="5" rx="2.5" fill="url(#bar)"/>
+  <rect x="882" y="466" width="34" height="5" rx="2.5" fill="url(#bar)"/>
+  <circle cx="936" cy="378.5" r="4.5" fill="#ffffff" stroke="#000000" stroke-opacity="0.3"/>
+
+  <!-- Apple Watch -->
+  <g filter="url(#shadow)">
+    <rect x="1186" y="250" width="22" height="46" rx="8" fill="#2a2e35"/>
+    <rect x="1040" y="200" width="160" height="200" rx="46" fill="url(#case)"/>
+    <rect x="1050" y="210" width="140" height="180" rx="38" fill="#0d1c3a"/>
+  </g>
+  <g font-family="-apple-system, 'SF Pro Rounded', 'Helvetica Neue', Arial, sans-serif" fill="#ffffff" text-anchor="middle">
+    <text x="1120" y="246" font-size="14" font-weight="600">Istanbul</text>
+    <text x="1128" y="292" font-size="40" font-weight="300">22°</text>
+    <text x="1120" y="314" font-size="11" font-weight="500" fill-opacity="0.8">Partly cloudy</text>
+  </g>
+  <circle cx="1078" cy="276" r="8" fill="#ffd040"/>
+  <g fill="#ffffff"><circle cx="1083" cy="284" r="6"/><circle cx="1090" cy="280" r="7"/><rect x="1078" y="283" width="19" height="7" rx="3.5"/></g>
+  <g font-family="-apple-system, 'SF Pro Rounded', 'Helvetica Neue', Arial, sans-serif" font-size="9" font-weight="700" text-anchor="middle">
+    <rect x="1064" y="326" width="34" height="38" rx="9" fill="#000000" fill-opacity="0.3"/>
+    <text x="1081" y="340" fill="#ffffff" fill-opacity="0.7">FEELS</text>
+    <text x="1081" y="356" font-size="13" fill="#ffffff">21°</text>
+    <rect x="1103" y="326" width="34" height="38" rx="9" fill="#000000" fill-opacity="0.3"/>
+    <text x="1120" y="340" fill="#ffffff" fill-opacity="0.7">NE</text>
+    <text x="1120" y="356" font-size="13" fill="#ffffff">15</text>
+    <rect x="1142" y="326" width="34" height="38" rx="9" fill="#000000" fill-opacity="0.3"/>
+    <text x="1159" y="340" fill="#ffffff" fill-opacity="0.7">AQI</text>
+    <text x="1159" y="356" font-size="13" fill="#d1db45">27</text>
+  </g>
+</svg>
