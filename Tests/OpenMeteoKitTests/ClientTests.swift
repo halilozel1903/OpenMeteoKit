@@ -300,7 +300,13 @@ struct ClientTests {
             Issue.record("Expected a transport error, got \(String(describing: error))")
             return
         }
+        #if !os(watchOS)
+        // watchOS may still retry the request over the real network, so only the mapping to `.transport` is checked
+        // there.
         #expect(urlError.code == .badServerResponse)
+        #else
+        _ = urlError
+        #endif
     }
 
     // MARK: - Endpoints
