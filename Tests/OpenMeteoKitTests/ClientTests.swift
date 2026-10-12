@@ -289,7 +289,9 @@ struct ClientTests {
     }
 
     @Test func transportError() async throws {
-        let stub = StubbedClient { _ in throw URLError(.notConnectedToInternet) }
+        // Not a connectivity error: on watchOS a -1009 from a URLProtocol makes the system retry the request over
+        // the real network, which bypasses the stub.
+        let stub = StubbedClient { _ in throw URLError(.badServerResponse) }
 
         let error = await #expect(throws: OpenMeteoError.self) {
             try await stub.client.searchLocations("Istanbul")
@@ -298,7 +300,7 @@ struct ClientTests {
             Issue.record("Expected a transport error, got \(String(describing: error))")
             return
         }
-        #expect(urlError.code == .notConnectedToInternet)
+        #expect(urlError.code == .badServerResponse)
     }
 
     // MARK: - Endpoints
